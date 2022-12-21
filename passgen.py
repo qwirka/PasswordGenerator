@@ -1,4 +1,4 @@
-Password Generator 1.0
+# Password Generator 1.0
 # Author : Nhlanhla Richard Nqoko
 # Github : https://github.com/richardnqoko
 # Date   : 21/12/2022
